@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Function_Crud_Operations": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7008 ", //--useHttps --cors * --cert certificate.pfx --password 123
+      "launchBrowser": false
+    }
+  }
+}
